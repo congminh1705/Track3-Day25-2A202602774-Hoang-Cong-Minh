@@ -1,6 +1,8 @@
 # Lab 25B — Game Day Report
 
-**Họ tên / nhóm:** Hoang Cong Minh / 2A202602774  **Commit:** pending  **Điểm tự động (`make grade`):** 84 / 88
+**Họ tên / nhóm:** Hoang Cong Minh / 2A202602774  **Commit:** 0ebdab1e8362dae88c864a06d9f1a581bc6f2d4a  **Điểm tự động (`make grade`):** 84 / 88
+
+The commit above contains the completed implementation, configuration, report and artifacts. A subsequent documentation commit records this hash in the report; implementation and validation results are unchanged.
 
 Tables below show seed 25. Final validation passed seeds 25, 26, and 27 for all six Game Day tapes and C1; unit, workflow, and public SLO checks also passed. The hidden SLO dataset is instructor-only and is not included in the 84/88 automatic score.
 
